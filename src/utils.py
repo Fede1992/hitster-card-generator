@@ -1,5 +1,6 @@
 import io
 import gc
+import json
 import time
 import os
 import random
@@ -390,12 +391,42 @@ def parse_playlist_data(playlist_data):
 # SPOTIFY SCRAPER — extract track links from a public playlist page
 # =============================================================================
 
+def scrape_playlist_embed_track_links(playlist_url) -> list[str]:
+    """
+    Read track links from the playlist's embed page (__NEXT_DATA__ JSON).
+    Spotify caps this list at 100 tracks. Returns [] on any failure.
+    """
+    try:
+        playlist_id = playlist_url.split('/playlist/')[1].split('?')[0].split('/')[0]
+        res = requests.get(f'https://open.spotify.com/embed/playlist/{playlist_id}',
+                           headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+        res.raise_for_status()
+        script = BeautifulSoup(res.text, 'html.parser').find('script', id='__NEXT_DATA__')
+        data = json.loads(script.string)
+        track_list = data['props']['pageProps']['state']['data']['entity']['trackList']
+        links = []
+        for track in track_list:
+            url = 'https://open.spotify.com/track/' + track['uri'].split(':')[-1]
+            if url not in links:
+                links.append(url)
+        return links
+    except Exception as e:
+        print(f"Embed scrape failed, falling back to public page: {e}")
+        return []
+
 def scrape_playlist_track_links(playlist_url) -> list[str]:
     """
     Scrape individual track URLs from a public Spotify playlist page.
     Returns a list of 'https://open.spotify.com/track/...' URLs.
+
+    Tries the embed page first (up to 100 tracks), then falls back to the
+    regular public page (~30 tracks). For playlists longer than 100 tracks,
+    use src/fetch_full_playlist.py.
     """
     headers = {'User-Agent': 'Mozilla/5.0'}
+    embed_links = scrape_playlist_embed_track_links(playlist_url)
+    if embed_links:
+        return embed_links
     try:
         res = requests.get(playlist_url, headers=headers, timeout=10)
         res.raise_for_status()
@@ -552,11 +583,12 @@ def get_font_for_setting(settings, size):
     return get_google_font(settings.get('google_font', 'Montserrat'), size, fallback)
 
 
-def create_solution_side(song_name, artist, year, all_years, output_path):
+def create_solution_side(song_name, artist, year, all_years, output_path, card_label=None):
     """
     Create solution card with year-based color background.
     """
-    img = create_solution_side_in_memory(song_name, artist, year, all_years)    
+    override = {'card_label': card_label} if card_label is not None else None
+    img = create_solution_side_in_memory(song_name, artist, year, all_years, settings_override=override)
     img.save(output_path)
     return output_path
 

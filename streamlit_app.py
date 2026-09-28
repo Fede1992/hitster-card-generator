@@ -137,7 +137,8 @@ with st.sidebar:
 
         with st.expander("🔑 Spotify API Credentials (optional)"):
             st.caption("Only needed when pasting a playlist URL. "
-                       "Without credentials, playlist URLs are limited to ~100 tracks. "
+                       "Without credentials, playlist URLs are limited to 100 tracks "
+                       "(run src/fetch_full_playlist.py locally for longer playlists). "
                        "Pasting individual track links works without limits.")
             spotify_client_id = st.text_input("Client ID", type="password")
             spotify_client_secret = st.text_input("Client Secret", type="password")

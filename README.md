@@ -28,7 +28,7 @@ Turn your favorite playlists into a physical card game. The tool creates profess
 |---|---|
 | 🌐 **Web Interface** | [Streamlit app](https://hitster-card-generator.streamlit.app/) — paste links, review, download |
 | 🔗 **No API Key Required** | Scrapes public Spotify pages; works with individual tracks *or* playlist URLs |
-| 📋 **Playlist URL Support** | Paste a single playlist URL to import up to ~100 tracks (unlimited with API credentials) |
+| 📋 **Playlist URL Support** | Paste a single playlist URL to import up to 100 tracks (unlimited locally with `fetch_full_playlist.py` or API credentials) |
 | ✏️ **Manual Year Override** | Edit years in an interactive table before generating the PDF |
 | 🎨 **Neon QR Design** | Unique randomised neon rings on every card |
 | 🎯 **Smart Colours** | Dynamic gradient (Purple → Pink → Gold → Blue) mapped to release years |
@@ -100,6 +100,20 @@ python src/hitster_card_creator.py
 python src/hitster_card_creator.py --ink-save-mode --card-draw-border --card-label "Game Night"
 # With custom styling options:
 python src/hitster_card_creator.py --qr-bg-mode solid --game-title "Hits"
+```
+
+**Playlists with more than 100 tracks** (no API needed):
+
+The public playlist pages only expose the first 100 tracks. `fetch_full_playlist.py`
+opens the playlist in a headless browser, scrolls through it and saves *every* track
+link to `links.txt`. It needs Playwright, which is not in `requirements.txt`:
+
+```bash
+pip install playwright
+python -m playwright install chromium
+
+python src/fetch_full_playlist.py "https://open.spotify.com/playlist/..."
+python src/hitster_card_creator.py --fetch
 ```
 
 **API mode** (if you have Spotify credentials):
