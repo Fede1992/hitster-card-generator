@@ -116,6 +116,15 @@ python src/fetch_full_playlist.py "https://open.spotify.com/playlist/..."
 python src/hitster_card_creator.py --fetch
 ```
 
+**Rebuild a PDF from a saved playlist** (no scraping, keeps hand-corrected years):
+
+Playlists already fetched and reviewed live in `playlists/<name>/songs.json`.
+Edit the years there if needed, then:
+
+```bash
+python src/build_pdf.py playlists/rockola/songs.json output/rockola.pdf
+```
+
 **API mode** (if you have Spotify credentials):
 
 ```bash

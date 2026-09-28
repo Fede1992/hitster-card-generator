@@ -1,0 +1,875 @@
+[
+  {
+    "name": "Should I Stay or Should I Go",
+    "original_name": "Should I Stay or Should I Go - Remastered",
+    "original_year": null,
+    "year": 1982,
+    "year_source": "iTunes",
+    "artist": "The Clash",
+    "link": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+  },
+  {
+    "name": "London Calling",
+    "original_name": "London Calling - Remastered",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "iTunes",
+    "artist": "The Clash",
+    "link": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+  },
+  {
+    "name": "I Fought the Law",
+    "original_name": "I Fought the Law",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "iTunes",
+    "artist": "The Clash",
+    "link": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+  },
+  {
+    "name": "Girls & Boys",
+    "original_name": "Girls & Boys",
+    "original_year": null,
+    "year": 1994,
+    "year_source": "manual",
+    "artist": "Blur",
+    "link": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+  },
+  {
+    "name": "Coffee & TV",
+    "original_name": "Coffee & TV",
+    "original_year": null,
+    "year": 1999,
+    "year_source": "manual",
+    "artist": "Blur",
+    "link": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
+  },
+  {
+    "name": "Song 2",
+    "original_name": "Song 2 - 2012 Remaster",
+    "original_year": null,
+    "year": 1997,
+    "year_source": "manual",
+    "artist": "Blur",
+    "link": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+  },
+  {
+    "name": "Country House",
+    "original_name": "Country House - 2012 Remaster",
+    "original_year": null,
+    "year": 1995,
+    "year_source": "manual",
+    "artist": "Blur",
+    "link": "https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb"
+  },
+  {
+    "name": "Close To Me",
+    "original_name": "Close To Me",
+    "original_year": null,
+    "year": 1985,
+    "year_source": "iTunes",
+    "artist": "The Cure",
+    "link": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
+  },
+  {
+    "name": "Friday I'm In Love",
+    "original_name": "Friday I'm In Love",
+    "original_year": null,
+    "year": 1992,
+    "year_source": "manual",
+    "artist": "The Cure",
+    "link": "https://open.spotify.com/track/0lxt6J01WBpovNFVF87Yqa"
+  },
+  {
+    "name": "Boys Don't Cry",
+    "original_name": "Boys Don't Cry",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "iTunes",
+    "artist": "The Cure",
+    "link": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+  },
+  {
+    "name": "Just Like Heaven",
+    "original_name": "Just Like Heaven - Remastered 2006",
+    "original_year": null,
+    "year": 1987,
+    "year_source": "iTunes",
+    "artist": "The Cure",
+    "link": "https://open.spotify.com/track/5Qg8hWllFdbsu0Fp0Q5axn"
+  },
+  {
+    "name": "Last Caress",
+    "original_name": "Last Caress",
+    "original_year": null,
+    "year": 1980,
+    "year_source": "manual",
+    "artist": "Misfits, Glenn Danzig",
+    "link": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
+  },
+  {
+    "name": "Saturday Night",
+    "original_name": "Saturday Night",
+    "original_year": null,
+    "year": 1999,
+    "year_source": "iTunes",
+    "artist": "Misfits",
+    "link": "https://open.spotify.com/track/3jXptpf8Z3aU9O1Bj6YCl0"
+  },
+  {
+    "name": "Helena",
+    "original_name": "Helena",
+    "original_year": null,
+    "year": 1999,
+    "year_source": "iTunes",
+    "artist": "Misfits",
+    "link": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
+  },
+  {
+    "name": "Yellow Ledbetter",
+    "original_name": "Yellow Ledbetter",
+    "original_year": null,
+    "year": 1992,
+    "year_source": "manual",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M"
+  },
+  {
+    "name": "Black",
+    "original_name": "Black",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY"
+  },
+  {
+    "name": "Even Flow",
+    "original_name": "Even Flow",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
+  },
+  {
+    "name": "Alive",
+    "original_name": "Alive",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
+  },
+  {
+    "name": "Do the Evolution",
+    "original_name": "Do the Evolution",
+    "original_year": null,
+    "year": 1998,
+    "year_source": "iTunes",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7"
+  },
+  {
+    "name": "Better Man",
+    "original_name": "Better Man",
+    "original_year": null,
+    "year": 1994,
+    "year_source": "iTunes",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
+  },
+  {
+    "name": "Jeremy",
+    "original_name": "Jeremy",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "manual",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
+  },
+  {
+    "name": "Given to Fly",
+    "original_name": "Given to Fly",
+    "original_year": null,
+    "year": 1998,
+    "year_source": "manual",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl"
+  },
+  {
+    "name": "Dissident",
+    "original_name": "Dissident - Remastered",
+    "original_year": null,
+    "year": 1993,
+    "year_source": "iTunes",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/1NnUbdEvJigY0ARnoOgDrv"
+  },
+  {
+    "name": "Once",
+    "original_name": "Once",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Pearl Jam",
+    "link": "https://open.spotify.com/track/4nRyBgsqXEP2oPfzaMeZr7"
+  },
+  {
+    "name": "Under the Bridge",
+    "original_name": "Under the Bridge",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Red Hot Chili Peppers",
+    "link": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+  },
+  {
+    "name": "Aeroplane",
+    "original_name": "Aeroplane",
+    "original_year": null,
+    "year": 1995,
+    "year_source": "manual",
+    "artist": "Red Hot Chili Peppers",
+    "link": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
+  },
+  {
+    "name": "Give It Away",
+    "original_name": "Give It Away",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Red Hot Chili Peppers",
+    "link": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+  },
+  {
+    "name": "My Friends",
+    "original_name": "My Friends",
+    "original_year": null,
+    "year": 1995,
+    "year_source": "manual",
+    "artist": "Red Hot Chili Peppers",
+    "link": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+  },
+  {
+    "name": "Suck My Kiss",
+    "original_name": "Suck My Kiss",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Red Hot Chili Peppers",
+    "link": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
+  },
+  {
+    "name": "The Man Who Sold The World",
+    "original_name": "The Man Who Sold The World",
+    "original_year": null,
+    "year": 1994,
+    "year_source": "manual",
+    "artist": "Nirvana",
+    "link": "https://open.spotify.com/track/48psxWnIVYCPUZJKiuDiEf"
+  },
+  {
+    "name": "Come As You Are",
+    "original_name": "Come As You Are",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Nirvana",
+    "link": "https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh"
+  },
+  {
+    "name": "About A Girl",
+    "original_name": "About A Girl - Remastered",
+    "original_year": null,
+    "year": 1989,
+    "year_source": "iTunes",
+    "artist": "Nirvana",
+    "link": "https://open.spotify.com/track/0zeqKbySjKbfW5jyl3PMsW"
+  },
+  {
+    "name": "All Apologies",
+    "original_name": "All Apologies",
+    "original_year": null,
+    "year": 1993,
+    "year_source": "iTunes",
+    "artist": "Nirvana",
+    "link": "https://open.spotify.com/track/2S4lAby9LtHrSS8l5kyHO9"
+  },
+  {
+    "name": "Polly",
+    "original_name": "Polly",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "Nirvana",
+    "link": "https://open.spotify.com/track/5OA6V14rCVeSplYvf8T18L"
+  },
+  {
+    "name": "Rock the Casbah",
+    "original_name": "Rock the Casbah",
+    "original_year": null,
+    "year": 1982,
+    "year_source": "iTunes",
+    "artist": "The Clash",
+    "link": "https://open.spotify.com/track/216tRx9zfuKKILYJt3t1fi"
+  },
+  {
+    "name": "Bohemian Rhapsody",
+    "original_name": "Bohemian Rhapsody - Remastered 2011",
+    "original_year": null,
+    "year": 1975,
+    "year_source": "iTunes",
+    "artist": "Queen",
+    "link": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+  },
+  {
+    "name": "Money",
+    "original_name": "Money - 2011 Remastered Version",
+    "original_year": null,
+    "year": 1973,
+    "year_source": "iTunes",
+    "artist": "Pink Floyd",
+    "link": "https://open.spotify.com/track/3aoDEt6zSuYQ47gzarlaVo"
+  },
+  {
+    "name": "Aqualung",
+    "original_name": "Aqualung",
+    "original_year": null,
+    "year": 1971,
+    "year_source": "iTunes",
+    "artist": "Jethro Tull",
+    "link": "https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i"
+  },
+  {
+    "name": "Locomotive Breath",
+    "original_name": "Locomotive Breath",
+    "original_year": null,
+    "year": 1971,
+    "year_source": "iTunes",
+    "artist": "Jethro Tull",
+    "link": "https://open.spotify.com/track/0MYNeFsKpzBHwrJGfWZysV"
+  },
+  {
+    "name": "Bourée",
+    "original_name": "Bourée",
+    "original_year": null,
+    "year": 1969,
+    "year_source": "iTunes",
+    "artist": "Jethro Tull",
+    "link": "https://open.spotify.com/track/3jNGLTOcA4a34rZD2y392C"
+  },
+  {
+    "name": "Cross-Eyed Mary",
+    "original_name": "Cross-Eyed Mary",
+    "original_year": null,
+    "year": 1971,
+    "year_source": "iTunes",
+    "artist": "Jethro Tull",
+    "link": "https://open.spotify.com/track/6MBZyLisOWTChcevgFqwVr"
+  },
+  {
+    "name": "Hymn 43",
+    "original_name": "Hymn 43",
+    "original_year": null,
+    "year": 1971,
+    "year_source": "iTunes",
+    "artist": "Jethro Tull",
+    "link": "https://open.spotify.com/track/2it4DH8fqcCkSTCmqY5gzk"
+  },
+  {
+    "name": "The Old Man Down The Road",
+    "original_name": "The Old Man Down The Road",
+    "original_year": null,
+    "year": 1984,
+    "year_source": "iTunes",
+    "artist": "John Fogerty",
+    "link": "https://open.spotify.com/track/0EsTalSdX4xatNwuFGSmgm"
+  },
+  {
+    "name": "Fortunate Son",
+    "original_name": "Fortunate Son",
+    "original_year": null,
+    "year": 1969,
+    "year_source": "manual",
+    "artist": "Creedence Clearwater Revival",
+    "link": "https://open.spotify.com/track/3yI282DoIJyERd0vGukMoB"
+  },
+  {
+    "name": "Cotton Fields",
+    "original_name": "Cotton Fields",
+    "original_year": null,
+    "year": 1969,
+    "year_source": "manual",
+    "artist": "Creedence Clearwater Revival",
+    "link": "https://open.spotify.com/track/25fowDvPAUn4hUkZKzudZp"
+  },
+  {
+    "name": "Who'll Stop The Rain",
+    "original_name": "Who'll Stop The Rain",
+    "original_year": null,
+    "year": 1970,
+    "year_source": "iTunes",
+    "artist": "Creedence Clearwater Revival",
+    "link": "https://open.spotify.com/track/1iWiNEgMtfMBpjxqngvQQ6"
+  },
+  {
+    "name": "Bad Moon Rising",
+    "original_name": "Bad Moon Rising",
+    "original_year": null,
+    "year": 1969,
+    "year_source": "iTunes",
+    "artist": "Creedence Clearwater Revival",
+    "link": "https://open.spotify.com/track/2kyBz2bXWUQDL26Aigex0X"
+  },
+  {
+    "name": "Susie Q",
+    "original_name": "Susie Q",
+    "original_year": null,
+    "year": 1968,
+    "year_source": "iTunes",
+    "artist": "Creedence Clearwater Revival",
+    "link": "https://open.spotify.com/track/5xpfodSZvstNnuvv0qXg3Y"
+  },
+  {
+    "name": "Molina",
+    "original_name": "Molina",
+    "original_year": null,
+    "year": 1970,
+    "year_source": "manual",
+    "artist": "Creedence Clearwater Revival",
+    "link": "https://open.spotify.com/track/5y3f0HzXlMbge94XeyEFiV"
+  },
+  {
+    "name": "Wish You Were Here",
+    "original_name": "Wish You Were Here",
+    "original_year": null,
+    "year": 1975,
+    "year_source": "iTunes",
+    "artist": "Pink Floyd",
+    "link": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
+  },
+  {
+    "name": "Comfortably Numb",
+    "original_name": "Comfortably Numb",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "iTunes",
+    "artist": "Pink Floyd",
+    "link": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
+  },
+  {
+    "name": "Hey You",
+    "original_name": "Hey You",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "iTunes",
+    "artist": "Pink Floyd",
+    "link": "https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN"
+  },
+  {
+    "name": "Another Brick in the Wall, Pt. 1",
+    "original_name": "Another Brick in the Wall, Pt. 1",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "iTunes",
+    "artist": "Pink Floyd",
+    "link": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
+  },
+  {
+    "name": "American Woman",
+    "original_name": "American Woman",
+    "original_year": null,
+    "year": 1970,
+    "year_source": "manual",
+    "artist": "The Guess Who",
+    "link": "https://open.spotify.com/track/5113cmRZTLSxc2343gbsz8"
+  },
+  {
+    "name": "Losing My Religion",
+    "original_name": "Losing My Religion",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "R.E.M.",
+    "link": "https://open.spotify.com/track/12axV6NUqaYH3yFUWwArzr"
+  },
+  {
+    "name": "Shiny Happy People",
+    "original_name": "Shiny Happy People",
+    "original_year": null,
+    "year": 1991,
+    "year_source": "iTunes",
+    "artist": "R.E.M.",
+    "link": "https://open.spotify.com/track/3sw1PM6wj5aUq3kDrHJsk8"
+  },
+  {
+    "name": "A Horse with No Name",
+    "original_name": "A Horse with No Name",
+    "original_year": null,
+    "year": 1971,
+    "year_source": "iTunes",
+    "artist": "America, George Martin",
+    "link": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+  },
+  {
+    "name": "Can't Stand Losing You",
+    "original_name": "Can't Stand Losing You",
+    "original_year": null,
+    "year": 1978,
+    "year_source": "iTunes",
+    "artist": "The Police",
+    "link": "https://open.spotify.com/track/4uErlni7Deg1CgSy3zYtN7"
+  },
+  {
+    "name": "Roxanne",
+    "original_name": "Roxanne",
+    "original_year": null,
+    "year": 1978,
+    "year_source": "iTunes",
+    "artist": "The Police",
+    "link": "https://open.spotify.com/track/2NMgVh5qaPprKTEzFe3501"
+  },
+  {
+    "name": "Message In A Bottle",
+    "original_name": "Message In A Bottle",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "iTunes",
+    "artist": "The Police",
+    "link": "https://open.spotify.com/track/0LhILIVhWTJz6eEsbEreZG"
+  },
+  {
+    "name": "So Lonely",
+    "original_name": "So Lonely",
+    "original_year": null,
+    "year": 1978,
+    "year_source": "iTunes",
+    "artist": "The Police",
+    "link": "https://open.spotify.com/track/36sl2chZHvRyHlAooKr5va"
+  },
+  {
+    "name": "Walking On The Moon",
+    "original_name": "Walking On The Moon",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "iTunes",
+    "artist": "The Police",
+    "link": "https://open.spotify.com/track/3Q7TedsolzrdYoVFJmoNjD"
+  },
+  {
+    "name": "All Right Now",
+    "original_name": "All Right Now",
+    "original_year": null,
+    "year": 1970,
+    "year_source": "iTunes",
+    "artist": "Free",
+    "link": "https://open.spotify.com/track/7IhkWF9zpiYKlU7CxHxYT9"
+  },
+  {
+    "name": "I'm Free",
+    "original_name": "I'm Free",
+    "original_year": null,
+    "year": 1990,
+    "year_source": "manual",
+    "artist": "The Soup Dragons, Junior Reid",
+    "link": "https://open.spotify.com/track/1O0BTayCdWgQYAYYUynSpe"
+  },
+  {
+    "name": "Stone Cold Crazy",
+    "original_name": "Stone Cold Crazy - Remastered 2011",
+    "original_year": null,
+    "year": 1974,
+    "year_source": "iTunes",
+    "artist": "Queen",
+    "link": "https://open.spotify.com/track/7Dk2q3NMtkiHNAA4DuHIGF"
+  },
+  {
+    "name": "Sweet Home Alabama",
+    "original_name": "Sweet Home Alabama",
+    "original_year": null,
+    "year": 1974,
+    "year_source": "iTunes",
+    "artist": "Lynyrd Skynyrd",
+    "link": "https://open.spotify.com/track/4CJVkjo5WpmUAKp3R44LNb"
+  },
+  {
+    "name": "Free Bird",
+    "original_name": "Free Bird",
+    "original_year": null,
+    "year": 1973,
+    "year_source": "iTunes",
+    "artist": "Lynyrd Skynyrd",
+    "link": "https://open.spotify.com/track/4JNi40t7xR5bO3PWxRkiPN"
+  },
+  {
+    "name": "La Grange",
+    "original_name": "La Grange - 1999 Remaster",
+    "original_year": null,
+    "year": 1973,
+    "year_source": "iTunes",
+    "artist": "ZZ Top",
+    "link": "https://open.spotify.com/track/0FMhMAFPLg8EljnROSoVnj"
+  },
+  {
+    "name": "White Wedding",
+    "original_name": "White Wedding",
+    "original_year": null,
+    "year": 1982,
+    "year_source": "iTunes",
+    "artist": "Billy Idol",
+    "link": "https://open.spotify.com/track/0bvpSvOYt4KTfZIZJmyFOs"
+  },
+  {
+    "name": "Like a Rolling Stone",
+    "original_name": "Like a Rolling Stone",
+    "original_year": null,
+    "year": 1965,
+    "year_source": "iTunes",
+    "artist": "Bob Dylan",
+    "link": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+  },
+  {
+    "name": "Zombie",
+    "original_name": "Zombie",
+    "original_year": null,
+    "year": 1994,
+    "year_source": "iTunes",
+    "artist": "The Cranberries",
+    "link": "https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2"
+  },
+  {
+    "name": "Magic Carpet Ride",
+    "original_name": "Magic Carpet Ride",
+    "original_year": null,
+    "year": 1968,
+    "year_source": "iTunes",
+    "artist": "Steppenwolf",
+    "link": "https://open.spotify.com/track/25ttbACknSKxdXAZchsIne"
+  },
+  {
+    "name": "Born To Be Wild",
+    "original_name": "Born To Be Wild",
+    "original_year": null,
+    "year": 1968,
+    "year_source": "iTunes",
+    "artist": "Steppenwolf",
+    "link": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
+  },
+  {
+    "name": "Carry On Wayward Son",
+    "original_name": "Carry On Wayward Son - Single Version",
+    "original_year": null,
+    "year": 1976,
+    "year_source": "iTunes",
+    "artist": "Kansas",
+    "link": "https://open.spotify.com/track/1qhB1rJ7xttcW4lYwOZWmD"
+  },
+  {
+    "name": "Simple Man",
+    "original_name": "Simple Man",
+    "original_year": null,
+    "year": 1973,
+    "year_source": "iTunes",
+    "artist": "Lynyrd Skynyrd",
+    "link": "https://open.spotify.com/track/6kZFIsYCBeuH0f1zGk1UoM"
+  },
+  {
+    "name": "Crazy Train",
+    "original_name": "Crazy Train - 2002 Version",
+    "original_year": null,
+    "year": 1980,
+    "year_source": "iTunes",
+    "artist": "Ozzy Osbourne",
+    "link": "https://open.spotify.com/track/61nSbxyL6VRPp32AMscxiF"
+  },
+  {
+    "name": "Paranoid",
+    "original_name": "Paranoid - Live at the NEC, Birmingham, UK - December 1997",
+    "original_year": null,
+    "year": 1970,
+    "year_source": "manual",
+    "artist": "Black Sabbath",
+    "link": "https://open.spotify.com/track/3ebrniHtOzNWigJhEkWguR"
+  },
+  {
+    "name": "Little Wing",
+    "original_name": "Little Wing",
+    "original_year": null,
+    "year": 1967,
+    "year_source": "iTunes",
+    "artist": "Jimi Hendrix",
+    "link": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
+  },
+  {
+    "name": "Hey Joe",
+    "original_name": "Hey Joe",
+    "original_year": null,
+    "year": 1966,
+    "year_source": "iTunes",
+    "artist": "Jimi Hendrix",
+    "link": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+  },
+  {
+    "name": "Purple Haze",
+    "original_name": "Purple Haze",
+    "original_year": null,
+    "year": 1967,
+    "year_source": "iTunes",
+    "artist": "Jimi Hendrix",
+    "link": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+  },
+  {
+    "name": "The Wind Cries Mary",
+    "original_name": "The Wind Cries Mary",
+    "original_year": null,
+    "year": 1967,
+    "year_source": "iTunes",
+    "artist": "Jimi Hendrix",
+    "link": "https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"
+  },
+  {
+    "name": "Bold as Love",
+    "original_name": "Bold as Love",
+    "original_year": null,
+    "year": 1967,
+    "year_source": "iTunes",
+    "artist": "Jimi Hendrix",
+    "link": "https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc"
+  },
+  {
+    "name": "Foxey Lady",
+    "original_name": "Foxey Lady",
+    "original_year": null,
+    "year": 1967,
+    "year_source": "iTunes",
+    "artist": "Jimi Hendrix",
+    "link": "https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B"
+  },
+  {
+    "name": "Whole Lotta Love",
+    "original_name": "Whole Lotta Love - 1990 Remaster",
+    "original_year": null,
+    "year": 1969,
+    "year_source": "iTunes",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+  },
+  {
+    "name": "Rock and Roll",
+    "original_name": "Rock and Roll - 1990 Remaster",
+    "original_year": null,
+    "year": 1971,
+    "year_source": "manual",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/3w2GGz0HjIu9OcWXINRFJR"
+  },
+  {
+    "name": "Immigrant Song",
+    "original_name": "Immigrant Song - 1990 Remaster",
+    "original_year": null,
+    "year": 1970,
+    "year_source": "iTunes",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/6kjlvJLh2DBsSQtqVzFh8I"
+  },
+  {
+    "name": "Ramble On",
+    "original_name": "Ramble On - 1990 Remaster",
+    "original_year": null,
+    "year": 1969,
+    "year_source": "iTunes",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
+  },
+  {
+    "name": "D'yer Mak'er",
+    "original_name": "D'yer Mak'er - Remaster",
+    "original_year": null,
+    "year": 1973,
+    "year_source": "iTunes",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/5iNr7y6iWNkwVvVeOXSLT5"
+  },
+  {
+    "name": "Black Dog",
+    "original_name": "Black Dog - Remaster",
+    "original_year": null,
+    "year": 1971,
+    "year_source": "iTunes",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+  },
+  {
+    "name": "Tangerine",
+    "original_name": "Tangerine - Remaster",
+    "original_year": null,
+    "year": 1970,
+    "year_source": "manual",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/3NH2FJUSV3HGXZRtOc3Uwj"
+  },
+  {
+    "name": "All My Love",
+    "original_name": "All My Love - 1990 Remaster",
+    "original_year": null,
+    "year": 1979,
+    "year_source": "manual",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/6lrh9jZ1xoMwoErgPSj2rY"
+  },
+  {
+    "name": "Houses of the Holy",
+    "original_name": "Houses of the Holy - 1990 Remaster",
+    "original_year": null,
+    "year": 1975,
+    "year_source": "manual",
+    "artist": "Led Zeppelin",
+    "link": "https://open.spotify.com/track/4es5wreov9D4Y4fXLGZkuB"
+  },
+  {
+    "name": "Riding with the King",
+    "original_name": "Riding with the King",
+    "original_year": null,
+    "year": 2000,
+    "year_source": "iTunes",
+    "artist": "Eric Clapton, B.B. King",
+    "link": "https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj"
+  },
+  {
+    "name": "Cocaine",
+    "original_name": "Cocaine",
+    "original_year": null,
+    "year": 1977,
+    "year_source": "iTunes",
+    "artist": "Eric Clapton",
+    "link": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
+  },
+  {
+    "name": "Beast Of Burden",
+    "original_name": "Beast Of Burden - Remastered",
+    "original_year": null,
+    "year": 1978,
+    "year_source": "iTunes",
+    "artist": "The Rolling Stones",
+    "link": "https://open.spotify.com/track/0832Tptls5YicHPGgw7ssP"
+  },
+  {
+    "name": "Brown Sugar",
+    "original_name": "Brown Sugar",
+    "original_year": null,
+    "year": 1971,
+    "year_source": "iTunes",
+    "artist": "The Rolling Stones",
+    "link": "https://open.spotify.com/track/6Gi8vIT6In8RrT2eTKxoVR"
+  },
+  {
+    "name": "Gimme Shelter",
+    "original_name": "Gimme Shelter",
+    "original_year": null,
+    "year": 1969,
+    "year_source": "iTunes",
+    "artist": "The Rolling Stones",
+    "link": "https://open.spotify.com/track/1dv3ePjze9tPq2pk8eWJdR"
+  }
+]
