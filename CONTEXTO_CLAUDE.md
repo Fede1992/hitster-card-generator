@@ -49,10 +49,18 @@ Se escanean con la cámara del móvil (la app oficial de Hitster no lee estos QR
 
 Playwright **no** está en `requirements.txt` a propósito, para no hacer más pesada la app de Streamlit.
 
+### 4. Mazo combinado (29/09/2026, PC del trabajo)
+
+- **"Exitos exitosos"** completa (143 enlaces) + **"Para juego"** (`https://open.spotify.com/playlist/2ltM7bIUldq0kmfPsE79HG`, 206) → `playlists/combinada/`.
+- Rockola! es un mazo **aparte** y **no debe haber cartas repetidas entre mazos**: se quitaron de la combinada 36 canciones que ya estaban en Rockola! (por enlace y por artista + título), más 3 repetidas internas. Se dejaron 3 covers a propósito (Joey Ramone, Heart, Sheryl Crow).
+- Se corrigieron 28 años. 15 dudosos los resolvió el usuario (12 con año y 3 quitadas). Detalle en `correcciones.txt` y `quitadas.txt`.
+- Resultado: **304 cartas**.
+
 ## Estado actual
 
 - `playlists/rockola/songs.json`: 400 canciones revisadas.
-- `playlists/exitos_exitosos/songs.json`: 97 canciones revisadas.
+- `playlists/exitos_exitosos/songs.json`: 97 canciones revisadas (versión vieja, incluida ahora en la combinada).
+- `playlists/combinada/songs.json`: **304 canciones revisadas**, sin dudosos, sin repetidas con Rockola!.
 - Los PDF **no están en el repo** (pesan 14 y 59 MB). Se regeneran con `build_pdf.py`.
 
 ### Años de "Rockola!" pendientes de confirmar
