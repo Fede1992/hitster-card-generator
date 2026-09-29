@@ -212,6 +212,42 @@ Spotify metadata sometimes shows remaster/re-release years instead of the origin
 
 > **Tip:** Use "Actual size" in your printer settings (not "Fit to page") so QR codes scan correctly.
 
+> **Importante:** en el diálogo de impresión, elegí explícitamente tamaño de papel **A4** (no Carta/Letter).
+> Si el papel seleccionado no coincide con el tamaño del documento, el frente y el dorso de las tarjetas
+> quedan desalineados al imprimir a escala 100%.
+
+---
+
+## 🎵 Mazos propios (Rockola / Éxitos Exitosos)
+
+Este fork mantiene dos mazos armados a mano en `playlists/`:
+
+| Mazo | Temas | Estado de los años |
+|---|---|---|
+| `playlists/rockola` | 400 | Auditado tema por tema contra fuentes web (Wikipedia, Discogs, etc.). 52 correcciones aplicadas, logueadas en `playlists/rockola/correcciones.txt`. |
+| `playlists/exitos_exitosos` | 97 | Auditado igual — ninguna corrección necesaria, ya estaban todos bien. |
+
+**Criterio usado para el año:** el año de la versión/grabación específica que apunta el link de Spotify
+(por ejemplo una versión en vivo o un cover), no el año de la composición original ni el de otra versión.
+
+### Personalización aplicada (src/utils.py)
+
+- Fuente de artista/canción en el dorso agrandada (~20%): `font_artist` 110→135, `font_song` 100→125
+  (línea ~965 de `src/utils.py`).
+- Línea guía de corte entre tarjetas: gris sutil en vez de blanco (`card_border_color`, línea ~64) y
+  más fina (`border_width` 20→6, línea ~783). Se activa pasando `--card-draw-border` al generar el PDF
+  (no está prendida por defecto).
+
+### Reconstruir los PDFs (sin volver a scrapear)
+
+```bash
+python src/build_pdf.py playlists/rockola/songs.json output/rockola.pdf --card-draw-border
+python src/build_pdf.py playlists/exitos_exitosos/songs.json output/exitos_exitosos.pdf --card-draw-border
+```
+
+Si corregís más años a mano, editá el `songs.json` correspondiente y loggeá el cambio en su
+`correcciones.txt`, después volvé a correr el comando de arriba.
+
 ---
 
 ## 🐛 Troubleshooting

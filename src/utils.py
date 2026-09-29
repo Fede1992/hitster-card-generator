@@ -61,7 +61,7 @@ DEFAULT_DESIGN_SETTINGS = {
     "card_size": 2000,
     "ink_saving_mode": False,
     "card_draw_border": False,
-    "card_border_color": (255, 255, 255),
+    "card_border_color": (150, 150, 150),
     "neon_colors": [(255, 0, 100), (0, 200, 255), (0, 255, 120), (255, 255, 0)],
 
     "fonts_dict": {
@@ -780,7 +780,7 @@ def render_card_background(img, settings, side="qr", seed=42):
 
     # Draw border
     if settings.get('card_draw_border'):
-        border_width = 20
+        border_width = 6
         draw.rectangle(
             [(border_width, border_width), (size - border_width, size - border_width)],
             outline=settings['card_border_color'],
@@ -963,8 +963,8 @@ def create_solution_side_in_memory(song_name, artist, year, all_years, settings_
     draw = ImageDraw.Draw(img)
     
     font_year = get_font_for_setting(settings, 380)
-    font_artist = get_font_for_setting(settings, 110)
-    font_song = get_font_for_setting(settings, 100)
+    font_artist = get_font_for_setting(settings, 135)
+    font_song = get_font_for_setting(settings, 125)
     
     # Choose text color based on background luminance for contrast
     if ink_saving_mode:
